@@ -1,0 +1,3 @@
+include ':MyUtis'
+include ':app'
+rootProject.name = "LIbririMate"
